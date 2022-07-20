@@ -1,0 +1,16 @@
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.csprojAssemblyReference.cache
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.AssemblyInfoInputs.cache
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.AssemblyInfo.cs
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.csproj.CoreCompileInputs.cache
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\Basic RAM Destroyer.exe
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\Basic RAM Destroyer.deps.json
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\Basic RAM Destroyer.runtimeconfig.json
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\Basic RAM Destroyer.runtimeconfig.dev.json
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\Basic RAM Destroyer.dll
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\ref\Basic RAM Destroyer.dll
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\bin\Debug\net5.0\Basic RAM Destroyer.pdb
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.dll
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\ref\Basic RAM Destroyer.dll
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.pdb
+D:\Semki Show\C#\Viruses\RAM destroyers\Basic RAM Destroyer\obj\Debug\net5.0\Basic RAM Destroyer.genruntimeconfig.cache
