@@ -15,7 +15,7 @@ namespace Double
 	    int memory = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Convirm memory destruction pressing any key");
             Console.ReadKey();
-            for (int x = 0; x < memory; x++)
+            for (int x = 0; x < memory * 1024; x++)
             {
                 if (File.Exists(drive + "/Memory (" + Convert.ToString(x) + ").txt"))
                 {
@@ -28,7 +28,7 @@ namespace Double
 			string beforeProgressBar = x + " GiB " + i + " MiB "; 
 			int progressBarLength = Console.WindowWidth - (beforeProgressBar.Length + 3 + 4);
 			Console.WriteLine(beforeProgressBar + "[" + new string('#', Convert.ToInt16(Convert.ToDouble(x * 1024 + i) / (memory * 1024) * progressBarLength)) + new string ('.', Convert.ToInt16(progressBarLength - Convert.ToDouble(x * 1024 + i) / (memory * 1024) * progressBarLength)) + "] " + (Convert.ToInt16(Convert.ToDouble(x * 1024 + i) / (memory * 1024) * 100)) + "%");
-			File.AppendAllText(drive + "/Memory (" + Convert.ToString(x) + ").txt", new string('S', 1024 * 1024));
+			File.AppendAllText(drive + "/Memory (" + Convert.ToString(x) + ").txt", new string('S', 1024));
 		}
             }
         }
